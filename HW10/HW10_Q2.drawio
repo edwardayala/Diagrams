@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-01T23:21:00.178Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="tkPoRna8lkhYVZEeWHMO" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-01T23:21:48.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="F7XEjilY3Ph23s89Bjtb" version="12.3.3" type="github" pages="1">
   <diagram id="Tg586LnQFS1tEYMSLTrV" name="Page-1">
-    <mxGraphModel dx="772" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1012" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -109,10 +109,10 @@
         <mxCell id="OuodS_jERPhckCzVtlXC-43" value="&lt;b&gt;10101000 = C A B&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontFamily=Courier New;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="595" y="850" width="180" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="OuodS_jERPhckCzVtlXC-46" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Code&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;Total Bits&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Huffman Coding&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;235&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Fixed-Length Coding&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;shadow=0;labelBackgroundColor=none;fontFamily=Courier New;fontSize=17;align=center;" vertex="1" parent="1">
+        <mxCell id="OuodS_jERPhckCzVtlXC-46" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;b&gt;Coding Type&lt;/b&gt;&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;&lt;b&gt;Total Bits&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Huffman Coding&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;235&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;Fixed-Length Coding&lt;/td&gt;&lt;td align=&quot;center&quot;&gt;300&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;shadow=0;labelBackgroundColor=none;fontFamily=Courier New;fontSize=17;align=center;" vertex="1" parent="1">
           <mxGeometry x="90" y="830" width="320" height="140" as="geometry"/>
         </mxCell>
-        <mxCell id="OuodS_jERPhckCzVtlXC-47" value="Compression Ratio: 235 / 300 = 0.783333... = 78%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=17;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="OuodS_jERPhckCzVtlXC-47" value="&lt;b&gt;Compression Ratio: 235 / 300 = 0.783333... = 78%&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=17;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="20" y="1000" width="510" height="30" as="geometry"/>
         </mxCell>
       </root>
